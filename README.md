@@ -4,17 +4,18 @@
       - Human-machine interaction
       - Software development
 - 🌱 I’m currently learning ...
-      - Electrical assembly. Wiring. Relays, switches, etc. For my job.
+      - Calculus
+      - Chemistry
       - Java
       - C#
       - Arduino
 - 💞️ I’m looking to collaborate on ...
-      - Nothing just yet, don't have the skills or time to do a collaborative project properly. Yet.
+      - Nothing. Yet.
       
-- 📫 How to reach me ...
-      - You can find me on Twitter as @JCinYYC
-      - Can you message people on Github? I'm really new to this site, I really don't know much about it yet.
-      - You can find me on Twitter at 
+- 📫 How to reach me on ...
+      - Twitter as @JCinYYC
+      - Instagram as @JCinYYC
+      - Tumblr as @jcinycc
 
 <!---
 SpacemanJC/SpacemanJC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
