@@ -1,19 +1,19 @@
 - 👋 Hi, I’m @chromejock-alex
 
-- 👀 I’m interested in ...
-      - Robotics, with a particular fascination in prosthetics/cybernetics
-        - Taking the "fiction" out of "science-fiction"!
-      - Human-machine interaction
-      - Embedded systems
+- 👀 I’m interested in ... <br>
+      - Robotics, with a particular fascination in prosthetics/cybernetics <br>
+        - Taking the "fiction" out of "science-fiction"! <br>
+      - Human-machine interaction <br>
+      - Embedded systems <br>
         - CNC and vehicle electronics, especially. 
       
-- 🌱 I’m currently learning ...
-      - C++
-      - Arduino
-      - Web & Mobile (Android) development
+- 🌱 I’m currently learning ... <br>
+      - C++ <br>
+      - Arduino <br>
+      - Web & Mobile (Android) development <br>
       
-- 💞️ I’m looking to collaborate on ...
-      - Nothing right now - still working on getting to the point where I'll be more of a help than a hindrance.
+- 💞️ I’m looking to collaborate on ... <br>
+      - Nothing right now; still working on getting to the point where I'll be more of a help than a hindrance.
 
 <!---
 SpacemanJC/chromejock-alex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
